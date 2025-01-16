@@ -15,3 +15,8 @@ birdwood's Trial Shrine
 本データパックは、以下のリンク先にあるTictim様製作のmod「paraglider」をサポートしています。
 https://www.curseforge.com/minecraft/mc-mods/paragliders
 本データパックに含まれる構造物から「paraglider」modに含まれるアイテムが入手できます。
+
+【注意】
+本データパックは「paraglider」modをサポートしていますが、Tictim様との関わりはありません。
+本データパックの不具合を報告する場合は、必ず私、birdwoodまで連絡してください。
+「paraglider」modの製作者、Tictim様に連絡しないでください
