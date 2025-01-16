@@ -1,0 +1,15 @@
+{
+    "name":"birdwood_trial_shrine:trial_shrine",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 50,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "birdwood_trial_shrine:trial_shrine_stone_1",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      }
+    ]
+  }

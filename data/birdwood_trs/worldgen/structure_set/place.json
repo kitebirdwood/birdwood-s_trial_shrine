@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "birdwood_trial_shrine:gen_setting",
+            "weight": 50
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 12,
+        "separation": 6,
+        "salt": 42355810
+    }
+}
