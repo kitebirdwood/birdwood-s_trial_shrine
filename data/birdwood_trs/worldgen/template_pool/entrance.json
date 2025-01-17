@@ -1,12 +1,12 @@
 {
-    "name":"birdwood_trial_shrine:entrance",
+    "name":"birdwood_trs:entrance",
     "fallback": "minecraft:empty",
     "elements": [
       {
         "weight": 50,
         "element": {
           "element_type": "minecraft:single_pool_element",
-          "location": "birdwood_trial_shrine:shrine_entrance_1",
+          "location": "birdwood_trs:shrine_entrance_1",
           "projection": "rigid",
           "processors": "minecraft:empty"
         }
