@@ -1,10 +1,10 @@
 {
     "type": "minecraft:village",
-    "biomes": "#birdwood_trial_shrine:ground",
+    "biomes": "#birdwood_trs:ground",
     "adapt_noise": true,
     "spawn_overrides": {},
     "config": {
-        "start_pool": "birdwood_trial_shrine:entrance",
+        "start_pool": "birdwood_trs:entrance",
         "size": 1
     }
 }

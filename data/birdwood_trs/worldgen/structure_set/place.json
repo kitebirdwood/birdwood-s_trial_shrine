@@ -1,7 +1,7 @@
 {
     "structures": [
         {
-            "structure": "birdwood_trial_shrine:gen_setting",
+            "structure": "birdwood_trs:gen_setting",
             "weight": 50
         }
     ],
