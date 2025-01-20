@@ -1,12 +1,13 @@
 =======================
 birdwood's Trial Shrine
 =======================
+
 製作：birdwood
 対応Minecraftバージョン：Java Edition 1.18.2
 
 ～～～～～～～～～～～～～～～～～～
 連絡用フォーム
-https://forms.gle/ETxgkvCNNfyg6xJP7
+<https://forms.gle/ETxgkvCNNfyg6xJP7>
 ～～～～～～～～～～～～～～～～～～
 
 【概要】
@@ -19,7 +20,7 @@ https://forms.gle/ETxgkvCNNfyg6xJP7
 
 【補足】
 本データパックは、以下のリンク先にあるTictim様製作のmod「paraglider」をサポートしています。
-https://www.curseforge.com/minecraft/mc-mods/paragliders
+<https://www.curseforge.com/minecraft/mc-mods/paragliders>
 本データパックに含まれる構造物から「paraglider」modに含まれるアイテムが入手できます。
 
 【注意】
@@ -43,9 +44,9 @@ A.ライセンス上許可しますので投稿しても良いですし、それ
 もし、再配布サイトへ投稿するとしても、報告しないでほしいというお願いもします。
 理由については、#StopModRepostsに関係するサイトをご覧ください。
 （日本語）
-https://mcthnk.com/stop-mod-reposts/#google_vignette
+<https://mcthnk.com/stop-mod-reposts/#google_vignette>
 （英語）
-https://stopmodreposts.org/
+<https://stopmodreposts.org/>
 
 Q.再配布サイトから入手したこのデータパックに不具合がありました。修正できますか？
 A.再配布サイトから入手した場合は、一切サポートをしません。
