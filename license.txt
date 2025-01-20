@@ -1,0 +1,8 @@
+/*!
+ * birdwood's trial shrine
+ * URL https://github.com/kitebirdwood/birdwood-s_trial_shrine
+ *
+ * Copyright (c) 2025 birdwood
+ * https://opensource.org/licenses/mit-license.php
+ * 
+ */
