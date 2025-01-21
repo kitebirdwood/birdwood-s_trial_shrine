@@ -1,10 +1,9 @@
-=======================  
-birdwood's Trial Shrine  
-=======================  
+birdwood's Trial Shrine
+==
   
 製作：birdwood  
 対応Minecraftバージョン：Java Edition 1.18.2  
-  
+
 ～～～～～～～～～～～～～～～～～～  
 連絡用フォーム  
 <https://forms.gle/ETxgkvCNNfyg6xJP7>  
@@ -56,4 +55,3 @@ A.再配布サイトから入手した場合は、一切サポートをしませ
 【ライセンス】  
 このデータパックはMITライセンスのもとで配布されています。  
 詳しくは同梱の「license.txt」をご確認ください。  
-  
