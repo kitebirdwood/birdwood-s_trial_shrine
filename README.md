@@ -17,16 +17,6 @@ birdwood's Trial Shrine
 ２）出てきたフォルダに本データパックをzipのままぶち込んでください。  
 ３）birdwood's Trial Shrineと書かれた項目が出てきたら導入完了です。思う存分冒険しましょう。  
   
-【補足】  
-本データパックは、以下のリンク先にあるTictim様製作のmod「paraglider」をサポートしています。  
-<https://www.curseforge.com/minecraft/mc-mods/paragliders>  
-本データパックに含まれる構造物から「paraglider」modに含まれるアイテムが入手できます。  
-  
-【注意】  
-本データパックは「paraglider」modをサポートしていますが、Tictim様との関わりはありません。  
-本データパックの不具合を報告する場合は、必ず私、birdwoodまで連絡してください。  
-不具合の報告を「paraglider」modの製作者、Tictim様に連絡しないでください。  
-  
 【よくありそうな質問】  
 Q.このデータパックを改変して別のデータパックを作って配布していいですか？  
 A.ご自由にどうぞ。後述するライセンスに従う限りは自由です。  
